@@ -21,7 +21,23 @@ var questions = [{
     },
     {
         question: "what is my favorite color?",
-        answer: "blue"
+        answer: "blue",
+
+    },
+    {
+        question: "what is my leisure time?",
+        answer: "excercise",
+
+    },
+    {
+        question: "what is my favorite food?",
+        answer: "pizza",
+
+    },
+    {
+        question: "what is my favorite music genre?",
+        answer: "hiphop",
+
     }
 ]
 
